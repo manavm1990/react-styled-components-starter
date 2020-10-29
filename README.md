@@ -13,7 +13,7 @@ And then, a bunch of other 💩 happened:
 - [React Router](https://reactrouter.com/web/guides/quick-start)
 - [Styled Components with Stylelint](https://github.com/styled-components/stylelint-processor-styled-components) I have also included the recommendations listed [here](https://styled-components.com/docs/basics)
 - [Framer Motion](https://www.framer.com/motion/)
-- [TypographyJS](https://kyleamathews.github.io/typography.js/) is included, but no theme. To add a Typography theme, check [this post](https://dev.to/codefinity/typography-in-a-cra-5aoa).
+- [TypographyJS](https://kyleamathews.github.io/typography.js/) is included with the 'Funston TypographyJS Theme.' For more info about how to update this, check [this post](https://dev.to/codefinity/typography-in-a-cra-5aoa).
 - Probably some other stuff that I am currently 4getting about
 
 **Start all the things with `yarn`** - stick with 🧶 for best results with React
