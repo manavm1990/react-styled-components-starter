@@ -1,8 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+import Typography from "typography";
+import funstonTheme from "typography-theme-funston";
 import App from "./components";
 import reportWebVitals from "./reportWebVitals";
+
+const typography = new Typography(funstonTheme);
+typography.injectStyles();
 
 ReactDOM.render(
   <React.StrictMode>

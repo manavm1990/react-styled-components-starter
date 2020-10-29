@@ -15,6 +15,7 @@
     "react-scripts": "4.0.0",
     "styled-components": "^5.2.0",
     "typography": "^0.16.19",
+    "typography-theme-funston": "^0.16.19",
     "web-vitals": "^0.2.4"
   },
   "scripts": {

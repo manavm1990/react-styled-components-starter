@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 import { BrowserRouter as Router } from "react-router-dom";
 import logo from "./logo.svg";
-import GlobalStyle from "./GlobalStyle";
 
 const AppContainer = styled.div`
   text-align: center;
@@ -45,8 +44,6 @@ const AppContainer = styled.div`
 
 export default () => (
   <Router>
-    <GlobalStyle />
-
     <AppContainer>
       <header>
         <img src={logo} className="logo" alt="logo" />
